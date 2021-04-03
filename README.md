@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Azeem Shafeeq</h1>
 <h3 align="center">A bachelor student of UMT(University of management and technology) from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20views&color=0e75b6&style=flat" alt="azeem-dash" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeem-dash" alt="azeem-dash" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@itsazeemch1" target="blank"><img src="https://img.shields.io/twitter/follow/@itsazeemch1?logo=twitter&style=for-the-badge" alt="@itsazeemch1" /></a> </p>
+
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@itsazeemch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@itsazeemch" height="30" width="40" /></a>
+<a href="https://twitter.com/@itsazeemch1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@itsazeemch1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad azeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad azeem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/azeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="azeem" height="30" width="40" /></a>
 <a href="https://fb.com/azeem shafeeq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="azeem shafeeq" height="30" width="40" /></a>
@@ -17,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeem-dash&show_icons=true&locale=en&layout=compact" alt="azeem-dash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azeem-dash&show_icons=true&locale=en" alt="azeem-dash" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeem-dash&" alt="azeem-dash" /></p>
