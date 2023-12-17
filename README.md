@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azeem Shafeeq</h1>
-<h3 align="center">A bachelor student of UMT(University of management and technology) from Pakistan</h3>
+<h3 align="center">
+Full-Stack Developer Crafting Seamless Frontend and Backend Experiences
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20views&color=0e75b6&style=flat" alt="azeem-dash" /> </p>
 
@@ -7,16 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/@itsazeemch1" target="blank"><img src="https://img.shields.io/twitter/follow/@itsazeemch1?logo=twitter&style=for-the-badge" alt="@itsazeemch1" /></a> </p>
 
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@itsazeemch1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@itsazeemch1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad azeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad azeem" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/azeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="azeem" height="30" width="40" /></a>
-<a href="https://fb.com/azeem shafeeq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="azeem shafeeq" height="30" width="40" /></a>
-<a href="https://instagram.com/@its_azeem_ch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@its_azeem_ch" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/azeem shafeeq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="azeem shafeeq" height="30" width="40" /></a>
+<p align="left"">
+<a href="https://twitter.com/@itsazeemch1" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-1024.png" alt="@itsazeemch1" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/muhammad azeem" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-1024.png" alt="muhammad azeem" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/azeem" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-1024.png" alt="azeem" height="30" width="30" /></a>
+<a href="https://fb.com/azeem shafeeq" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-1024.png" alt="azeem shafeeq" height="30" width="30" /></a>
+<a href="https://instagram.com/@its_azeem_ch" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" alt="@its_azeem_ch" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/azeem shafeeq" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-1024.png" alt="azeem shafeeq" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
