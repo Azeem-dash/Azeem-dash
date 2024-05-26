@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **AI Chatbots ideas**
 
-- 👨‍💻 All of my projects are available at [https://azeems.netlify.app/](https://azeems.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://azeems.netlify.app/](https://azeems.netlify.app/) 
 
-- 📝 I regularly write articles on [https://cbsol.ai/blog/introducing-aws-cloudformation]([https://cbsol.ai/blog/introducing-aws-cloudformation](https://dev.to/azeem_shafeeq))
+- 📝 I regularly write articles on [https://dev.to/azeem_shafeeq](https://dev.to/azeem_shafeeq)
 
 - 💬 Ask me about: **react, next, javascript, chatbots, AWS,**
 
