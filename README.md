@@ -1,101 +1,71 @@
-<!-- Introduction Code Snippet with Beautiful Shade -->
-<details>
-  <summary>Python Code Introduction</summary>
-  <pre>
-  <code>
-  #!/usr/bin/python
-  # -*- coding: utf-8 -*-
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  class SoftwareEngineer:
+I'm Muhammad Azeem, a passionate software engineer from Lahore, Pakistan. Welcome to my GitHub profile!
 
-      def __init__(self):
-          self.name = "Zhenye Na"
-          self.role = "Software Engineer"
-          self.language_spoken = ["zh_CN", "en_US"]
+## 🚀💻 Technologies & Tools
 
-      def say_hi(self):
-          print("Thanks for dropping by, hope you find some of my work interesting.")
+**Programming Languages:**
 
-  me = SoftwareEngineer()
-  me.say_hi()
-  </code>
-  </pre>
-</details>
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 
-<h1 align="center">Hi 👋, I'm Muhammad Azeem</h1>
-<h3 align="center">a passionate Software Developer based in Lahore, Pakistan</h3>
+**Tools and Services:**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20views&color=0e75b6&style=flat" alt="azeem-dash" /> </p>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azeem-dash" alt="azeem-dash" /></a> </p>
+## 📝 Blogs
 
-- 🔭 I’m currently working on **Stinkbait**
-- 🌱 I’m currently learning **Machine Learning**
-- 👯 I’m looking to collaborate on **AI Chatbots ideas**
-- 👨‍💻 All of my projects are available at [azeems.netlify.app](https://azeems.netlify.app/)
-- 📝 I regularly write articles on [Dev.to](https://dev.to/azeem_shafeeq)
-- 💬 Ask me about: **react, next, javascript, chatbots, AWS**
-- 📫 How to reach me: **azeemshafeeq125@gmail.com**
+- [Personal Blog](https://azeems.netlify.app/)
+- [Tech Articles](https://dev.to/azeem_shafeeq)
+- [WIP: Coding Solutions](https://github.com/azeem-dash)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/azeem_shafeeq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/azeem_shafeeq" height="30" width="40" /></a>
-  <a href="https://twitter.com/itsazeemch1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsazeemch1" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/muhammad-azeem-904732195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-azeem-904732195/" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/15388992/azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15388992/azeem" height="30" width="40" /></a>
-  <a href="https://instagram.com/ch.azeem.shafeeq/?igshid=zje2ngzindq%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ch.azeem.shafeeq/?igshid=zje2ngzindq%3d" height="30" width="40" /></a>
-</p>
+### 📔 Latest Blog Posts
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Add your preferred tech stack icons here -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <!-- Add other icons as needed -->
-</p>
+<!-- BLOG-POST-LIST:START -->
+- [How to Implement reCAPTCHA in Next.js](https://dev.to/azeem_shafeeq/how-to-implement-recaptcha-in-next-js-4n9b)
+- [Creating a Responsive Dashboard in Next.js](https://dev.to/azeem_shafeeq/creating-a-responsive-dashboard-in-next-js-4ahf)
+- [Working with Google Maps API in React](https://dev.to/azeem_shafeeq/working-with-google-maps-api-in-react-2a5h)
+<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Latest Blog Posts:</h3>
-<div class="blog-body">
-  <!-- This will be dynamically filled with blog posts -->
+## 🔧 Highlight Projects
+
+<a href="https://github.com/azeem-dash/stinkbait">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azeem-dash&repo=stinkbait&theme=dark" alt="Stinkbait" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=azeem-dash&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=azeem-dash&show_icons=true&count_private=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-dash&layout=compact&theme=dark" />
+
+## 🗣️ Connect with Me
+
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/muhammad-azeem-904732195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/itsazeemch1"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:azeemshafeeq125@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
 </div>
 
-<script>
-  const username = 'azeem_shafeeq';
+### About Me
 
-  fetch(`https://dev.to/api/articles?username=${username}`)
-    .then(res => res.json())
-    .then(articles => {
-      const blogBody = document.querySelector('.blog-body');
+* 🎨 I am a frontend engineer with a passion for creating dynamic and user-friendly applications.
+* 🔥 I love working on open-source projects and contributing to the community.
+* 🌟 I currently work on various personal and professional projects, focusing on innovative solutions and cutting-edge technologies.
 
-      articles.slice(0, 3).forEach(article => {
-        const articleHTML = `
-          <div class="blog-item">
-            <div class="blog-image">
-              <img src="${article.cover_image || 'default-image.jpg'}" alt="${article.title}">
-            </div>
-            <div class="blog-text">
-              <h2>${article.title}</h2>
-              <p>${article.description}</p>
-              <a href="${article.url}" target="_blank" class="blog-link">
-                <span>Read more</span> <i class="las la-external-link-alt"></i>
-              </a>
-            </div>
-          </div>
-        `;
-        blogBody.innerHTML += articleHTML;
-      });
-    })
-    .catch(err => {
-      console.error("Error fetching articles: ", err);
-    });
-</script>
+[![Github Follow](https://img.shields.io/github/followers/azeem-dash?label=Follow%20Me&style=social)](https://github.com/azeem-dash)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=azeem-dash.azeem-dash)
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://buymeacoffee.com/azeemshafeeq"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</p><br><br>
+**Today's developer quotes**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeem-dash&show_icons=true&locale=en&layout=compact" alt="azeem-dash" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azeem-dash&show_icons=true&locale=en" alt="azeem-dash" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeem-dash&" alt="azeem-dash" /></p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
