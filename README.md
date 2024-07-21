@@ -27,7 +27,7 @@ I'm Muhammad Azeem, a passionate software engineer from Lahore, Pakistan. Welcom
 
 ## 📝 Blogs
 
-- [Personal Blog](https://azeems.netlify.app/)
+- [Personal Website](https://azeems.netlify.app/)
 - [Tech Articles](https://dev.to/azeem_shafeeq)
 
 ## 🔧 Highlight Projects
@@ -62,7 +62,7 @@ I'm Muhammad Azeem, a passionate software engineer from Lahore, Pakistan. Welcom
 
 * 🎨 I am a frontend engineer with a passion for creating dynamic and user-friendly applications.
 * 🔥 I love working on open-source projects and contributing to the community.
-* 🌟 I currently work at [cbsol.ai](https://cbsol.ai), where I focus on [Senior Software Engineer](https://cbsol.ai).
+* 🌟 I currently work at [cbsol.ai](https://cbsol.ai), where I focus on designing and implementing software systems.
 
 [![Github Follow](https://img.shields.io/github/followers/azeem-dash?label=Follow%20Me&style=social)](https://github.com/azeem-dash)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20views&color=0e75b6&style=flat)
