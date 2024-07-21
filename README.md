@@ -23,6 +23,12 @@ I'm Muhammad Azeem, a passionate software engineer from Lahore, Pakistan. Welcom
 <a href="https://github.com/azeem-dash/stinkbait">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=azeem-dash&repo=stinkbait&theme=dark" alt="Stinkbait" />
 </a>
+<a href="https://github.com/Azeem-dash/Gpt-Guide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=Gpt-Guide&theme=dark" alt="Gpt-Guide" />
+</a>
+<a href="https://github.com/Azeem-dash/CleanX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=CleanX&theme=dark" alt="CleanX" />
+</a>
 
 ## 🏆 GitHub Trophies
 
