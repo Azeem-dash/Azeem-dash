@@ -1,70 +1,70 @@
-<h1 align="center">Hi 👋, I'm Muhammad Azeem</h1>
-<h3 align="center">Passionate Software Developer from Lahore, Pakistan</h3>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+I'm [Your Name], a passionate software engineer from [Your Location]. Welcome to my GitHub profile!
 
-<p align="center">
-  <a href="https://azeems.netlify.app/" target="_blank">🌐 My Projects</a> |
-  <a href="https://dev.to/azeem_shafeeq" target="_blank">✍️ My Articles</a>
-</p>
+## 🚀💻 Technologies & Tools
 
-- 🔭 Currently working on **Stinkbait**
-- 🌱 Learning **Machine Learning**
-- 👯 Looking to collaborate on **AI Chatbots ideas**
-- 💬 Ask me about: **React, Next.js, JavaScript, Chatbots, AWS**
-- 📫 Reach me at: **azeemshafeeq125@gmail.com**
+**Programming Languages:**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad-azeem-904732195/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/itsazeemch1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/azeem_shafeeq" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-Follow-blue" alt="Dev.to" />
-  </a>
-  <a href="https://stackoverflow.com/users/15388992/azeem" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Follow-orange" alt="Stack Overflow" />
-  </a>
-  <a href="https://www.instagram.com/ch.azeem.shafeeq/?igshid=zje2ngzindq%3d" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink" alt="Instagram" />
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 
-<h3 align="center">Languages & Tools:</h3>
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-  </a>
-</p>
+**Tools and Services:**
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azeem-dash&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-</p>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://buymeacoffee.com/azeemshafeeq" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-</p>
+## 📝 Blogs
+
+- [Personal Blog](https://your-blog-url.com)
+- [Tech Articles](https://your-tech-articles-url.com)
+- [WIP: Coding Solutions](https://your-coding-solutions-url.com)
+
+### 📔 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Your Latest Blog Post Title](https://your-blog-url.com/latest-post)
+- [Another Blog Post Title](https://your-blog-url.com/another-post)
+<!-- BLOG-POST-LIST:END -->
+
+## 🔧 Highlight Projects
+
+<a href="https://github.com/your-username/your-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project&theme=dark" alt="Your Project" />
+</a>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" />
+
+## 🗣️ Connect with Me
+
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/your-twitter-profile"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:your-email@example.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+
+### About Me
+
+* 🎨 I am a frontend engineer with a passion for creating dynamic and user-friendly applications.
+* 🔥 I love working on open-source projects and contributing to the community.
+* 🌟 I currently work at [Your Company](https://your-company-url.com), where I focus on [Your Role].
+
+[![Github Follow](https://img.shields.io/github/followers/your-username?label=Follow%20Me&style=social)](https://github.com/your-username)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+
+**Today's developer quotes**
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
