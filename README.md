@@ -18,20 +18,6 @@ I'm Muhammad Azeem, a passionate software engineer from Lahore, Pakistan. Welcom
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📝 Blogs
-
-- [Personal Blog](https://azeems.netlify.app/)
-- [Tech Articles](https://dev.to/azeem_shafeeq)
-- [WIP: Coding Solutions](https://github.com/azeem-dash)
-
-### 📔 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Implement reCAPTCHA in Next.js](https://dev.to/azeem_shafeeq/how-to-implement-recaptcha-in-next-js-4n9b)
-- [Creating a Responsive Dashboard in Next.js](https://dev.to/azeem_shafeeq/creating-a-responsive-dashboard-in-next-js-4ahf)
-- [Working with Google Maps API in React](https://dev.to/azeem_shafeeq/working-with-google-maps-api-in-react-2a5h)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔧 Highlight Projects
 
 <a href="https://github.com/azeem-dash/stinkbait">
@@ -61,10 +47,14 @@ I'm Muhammad Azeem, a passionate software engineer from Lahore, Pakistan. Welcom
 
 * 🎨 I am a frontend engineer with a passion for creating dynamic and user-friendly applications.
 * 🔥 I love working on open-source projects and contributing to the community.
-* 🌟 I currently work on various personal and professional projects, focusing on innovative solutions and cutting-edge technologies.
+* 🌟 I currently work at [Your Company](https://your-company-url.com), where I focus on [Your Role].
 
 [![Github Follow](https://img.shields.io/github/followers/azeem-dash?label=Follow%20Me&style=social)](https://github.com/azeem-dash)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=azeem-dash.azeem-dash)
+![Visitor Badge](https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20views&color=0e75b6&style=flat)
+
+## 📚 All Blogs
+
+[![Read My Blogs](https://img.shields.io/badge/Read%20My%20Blogs-%23FF5722?style=flat&logo=blog&logoColor=white)](https://dev.to/azeem_shafeeq)
 
 **Today's developer quotes**
 
