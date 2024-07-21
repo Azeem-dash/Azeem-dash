@@ -60,7 +60,7 @@ I'm Muhammad Azeem, a passionate software engineer from Lahore, Pakistan. Welcom
 
 ### About Me
 
-* 🎨 I am a frontend engineer with a passion for creating dynamic and user-friendly applications.
+* 🎨 I am a software engineer with a passion for creating dynamic and user-friendly applications.
 * 🔥 I love working on open-source projects and contributing to the community.
 * 🌟 I currently work at [cbsol.ai](https://cbsol.ai), where I focus on designing and implementing software systems.
 
