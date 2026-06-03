@@ -38,10 +38,10 @@
 
 <p>
   <a href="https://github.com/Azeem-dash/Gpt-Guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=Gpt-Guide&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=Gpt-Guide&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   </a>
   <a href="https://github.com/Azeem-dash/CleanX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=CleanX&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=CleanX&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   </a>
 </p>
 
@@ -95,12 +95,25 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azeem-dash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=azeem-dash&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-dash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azeem-dash&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=azeem-dash&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azeem-dash&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azeem-dash&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azeem-dash&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azeem-dash&theme=tokyonight&utcOffset=5" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=azeem-dash&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+
 </div>
 
 ---
