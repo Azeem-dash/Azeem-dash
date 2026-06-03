@@ -1,96 +1,130 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
 
-I'm **Muhammad Azeem**, a passionate and creative **Software Engineer** from **Lahore, Pakistan** 🇵🇰.  
-Welcome to my GitHub — where I build smart, scalable, and real-world software solutions.  
-Explore my portfolio 👉 [azeemshafeeq.com](http://azeemshafeeq.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:6d28d9,100:9333ea&height=210&section=header&text=Muhammad%20Azeem&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20SaaS%20Builder%20%E2%80%A2%20Indie%20Hacker&descSize=18&descAlignY=56" width="100%"/>
 
----
-
-## 🚀 Tech Stack & Tools I Use
-
-**Languages & Frameworks:**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Tools & Platforms:**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
----
-
-## 📝 Articles & Blogs
-
-- 🌐 [My Portfolio Website](https://azeemshafeeq.com)
-- ✍️ [Tech Articles on Dev.to](https://dev.to/azeem_shafeeq)
-
----
-
-## 🔥 Featured Projects
-
-<a href="https://github.com/Azeem-dash/Gpt-Guide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=Gpt-Guide&theme=dark" />
-</a>
-<a href="https://github.com/Azeem-dash/CleanX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=CleanX&theme=dark" />
+<a href="https://github.com/Azeem-dash">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=620&lines=Building+AI-powered+SaaS+products+%F0%9F%A4%96;Full-Stack+Engineer+%7C+Next.js+%2B+Python;Indie+Hacker+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Turning+ideas+into+shipped+products+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
----
-
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=azeem-dash&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azeem-dash&show_icons=true&theme=dark&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-dash&layout=compact&theme=dark" />
+<p>
+  <a href="https://azeemshafeeq.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-azeem-904732195/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/itsazeemch1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://dev.to/azeem_shafeeq"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="mailto:azeemshafeeq125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-## 🗣️ Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-azeem-904732195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/itsazeemch1"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png"></a>&nbsp;&nbsp;
-  <a href="mailto:azeemshafeeq125@gmail.com"><img height="30" src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Senior Software Engineer at [cbsol.ai](https://cbsol.ai)
-- 💡 Building smart tools, scalable UIs, and automation solutions
-- 🤝 Open to collaborations and freelance projects
-- 🧠 Exploring AI/ML, SaaS products, and performance optimization
-- 🌐 Portfolio: [azeemshafeeq.com](http://azeemshafeeq.com)
+- 🚀 Software Engineer from **Lahore, Pakistan** 🇵🇰 building smart, scalable, real-world software.
+- 🤖 Currently focused on **AI-powered SaaS products** — agentic automation, lead generation, and developer tools.
+- 🧠 Deep into **LLM integrations** (OpenAI, Gemini, DeepSeek), full-stack apps, and workflow automation.
+- 🛠️ I ship fast and **build in public** — follow the journey on Dev.to, LinkedIn & X.
+- 🤝 Open to **collaborations, freelance work, and founding / AI-engineer opportunities**.
 
 ---
 
-## 💬 Developer Quote of the Day
+## 🔥 What I'm Building
 
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+> 🎯 **[MyLeadBots](https://myleadbots.com)** — An agentic lead-generation platform that finds local businesses, audits their digital presence (SEO, performance, reviews), and generates AI-powered outreach. Built with **Next.js · FastAPI · Supabase · LLMs**.
+
+> 🌐 **[azeemshafeeq.com](https://azeemshafeeq.com)** — My portfolio, writing, and experiments.
+
+### 📌 Pinned Repositories
+
+<p>
+  <a href="https://github.com/Azeem-dash/Gpt-Guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=Gpt-Guide&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Azeem-dash/CleanX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azeem-dash&repo=CleanX&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-[![Github Follow](https://img.shields.io/github/followers/azeem-dash?label=Follow%20Me&style=social)](https://github.com/azeem-dash)
-![Visitor Badge](https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20views&color=0e75b6&style=flat)
+## 🧰 Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & AI**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azeem-dash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=azeem-dash&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-dash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## ✍️ Writing
+
+- 📝 [Tech articles on Dev.to](https://dev.to/azeem_shafeeq)
+- 🌐 [My Portfolio & Blog](https://azeemshafeeq.com)
+
+---
+
+<div align="center">
+
+### 💬 Let's build something together
+
+<a href="https://www.linkedin.com/in/muhammad-azeem-904732195/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:azeemshafeeq125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://azeemshafeeq.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20Views&color=9333EA&style=flat-square" />
+<a href="https://github.com/azeem-dash?tab=followers"><img src="https://img.shields.io/github/followers/azeem-dash?label=Followers&style=flat-square&color=9333EA" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:6d28d9,100:1e3a8a&height=120&section=footer" width="100%"/>
