@@ -20,11 +20,19 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Software Engineer from **Lahore, Pakistan** 🇵🇰 building smart, scalable, real-world software.
+- 💼 **Senior Software Engineer** at [cbsol.ai](https://cbsol.ai), based in **Lahore, Pakistan** 🇵🇰
+- 🚀 Building smart, scalable UIs, automation solutions, and real-world software.
 - 🤖 Currently focused on **AI-powered SaaS products** — agentic automation, lead generation, and developer tools.
-- 🧠 Deep into **LLM integrations** (OpenAI, Gemini, DeepSeek), full-stack apps, and workflow automation.
+- 🧠 Deep into **LLM integrations** (OpenAI, Gemini, DeepSeek), full-stack apps, and performance optimization.
 - 🛠️ I ship fast and **build in public** — follow the journey on Dev.to, LinkedIn & X.
 - 🤝 Open to **collaborations, freelance work, and founding / AI-engineer opportunities**.
+
+---
+
+## 📝 Articles & Blogs
+
+- 🌐 [My Portfolio Website](https://azeemshafeeq.com)
+- ✍️ [Tech Articles on Dev.to](https://dev.to/azeem_shafeeq)
 
 ---
 
@@ -92,23 +100,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azeem-dash&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=azeem-dash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img width="49%" src="https://streak-stats.demolab.com?user=azeem-dash&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=azeem-dash&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azeem-dash&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azeem-dash&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azeem-dash&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azeem-dash&theme=tokyonight&utcOffset=5" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-dash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
@@ -118,25 +119,39 @@
 
 ---
 
-## ✍️ Writing
+## 🏆 GitHub Trophies
 
-- 📝 [Tech articles on Dev.to](https://dev.to/azeem_shafeeq)
-- 🌐 [My Portfolio & Blog](https://azeemshafeeq.com)
+<div align="center">
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=azeem-dash&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## 💬 Developer Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 Let's build something together
+### 🗣️ Let's Connect
 
 <a href="https://www.linkedin.com/in/muhammad-azeem-904732195/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/itsazeemch1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:azeemshafeeq125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://azeemshafeeq.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=azeem-dash&label=Profile%20Views&color=9333EA&style=flat-square" />
-<a href="https://github.com/azeem-dash?tab=followers"><img src="https://img.shields.io/github/followers/azeem-dash?label=Followers&style=flat-square&color=9333EA" /></a>
+<a href="https://github.com/azeem-dash?tab=followers"><img src="https://img.shields.io/github/followers/azeem-dash?label=Follow%20Me&style=social" /></a>
 
 </div>
 
